@@ -1,4 +1,4 @@
-# WiFi Captive Portal Automation --- Beginner to Advanced Documentation
+# WiFi Captive Portal Automation - Documentation
 
 ## Introduction
 
